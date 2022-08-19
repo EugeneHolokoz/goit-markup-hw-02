@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-My repository for homework GoIT 01
+# goit-markup-hw-02
+My repository for homework GoIT 02
